@@ -4,7 +4,7 @@ title: Three things I learned from The Ruby Koans
 ---
 
 Here are (at least) three things I learned from [The Ruby Koans](http://rubykoans.com/):
- 1. TBD until I do Ruby Koans 
+ 1. I can use the shovel operation in addition to the + for appending. 
  2. Something else
  3. 3rd thing
 
