@@ -1,2 +1,7 @@
+---
+layout: post
+title: Three things I learned from Scaffold and Photogram
+---
+
 - I learned that scaffold is good shortcut in developing the RCAV scripts. 
 - I also learned that devise can automatically set the security for users. 
