@@ -1,0 +1,24 @@
+- Yield calls the ruby block
+- Ruby blocks can either be {} or do end
+- Can put html file in the public folder and it will just host without the RCAV
+- require keyword pulls in classes and gems from somewhere else
+- Sinatra is good for showing some quick stuff, but if you need a DB and authentication and cookies  then use rails
+- Building using ruby is very ambiguous - you need to use a rails framework
+    - The same thing with node  - you still need to use a framework
+    - Rails new command creates the conventional folder structure that stays consistent across the projects - uses conventions and flow
+- Delete comment via AJAX
+    - Break the link from trash can icon
+        - Put remote: true on the link_to
+    - Need to make a request to delete comment route
+        - Add the JS path in the action
+    - Fade it out from the document
+        - Need to put an unique identifier on the comment to remove it
+        - Can use the comment id
+- Create comment via Ajax
+    - Add to local: false  to form_with
+    - Need to make a request to create comment
+        - Add the JS path in the action
+        - Do not need to put the render bc the action name is the same as the template name
+    - Add the comment
+        - before adds siblings (related items) to the html
+- Need to find JS error messages in the dev tools of the browser
