@@ -1,0 +1,1 @@
+The order of the migrations matter so if you run db:migrate, make sure that the file names are alphabetized in terms of their order. 
